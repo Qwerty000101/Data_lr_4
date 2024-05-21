@@ -1,0 +1,6 @@
+[tool.black]
+line-length = 78
+exclude = '''
+    doc/
+   .git/
+'''

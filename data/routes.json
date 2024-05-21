@@ -1,0 +1,27 @@
+[
+    {
+        "name_start": "Москва",
+        "name_end": "Воронеж",
+        "number": 1
+    },
+    {
+        "name_start": "Норильск",
+        "name_end": "Воронеж",
+        "number": 2
+    },
+    {
+        "name_start": "Москва",
+        "name_end": "Ярославль",
+        "number": 3
+    },
+    {
+        "name_start": "Нью-Йорк",
+        "name_end": "Омск",
+        "number": 5
+    },
+    {
+        "name_start": "Суздаль",
+        "name_end": "Воронеж",
+        "number": 1
+    }
+]
