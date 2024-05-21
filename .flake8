@@ -1,4 +1,0 @@
-[flake8]
-exclude = .git, __pychache__,doc,__init__.py
-max-line-length = 78
-ignore = E203, E266, W503, W605, W504, E275, W391
